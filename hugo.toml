@@ -1,0 +1,8 @@
+baseURL = "https://poemDead.github.io/my-hugo-blog/"
+title = "ZHAI HANZHANG"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"  # PaperMod 常用参数
