@@ -1,5 +1,5 @@
-baseURL = "https://poemDead.github.io/my-hugo-blog/"
-title = "ZHAI HANZHANG"
+baseURL = "https://blog.hanzhang.studio/my-blog/"
+title = "poemDead"
 theme = "PaperMod"
 
 enableRobotsTXT = true
